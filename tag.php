@@ -14,8 +14,6 @@ if ($category=="Graphic Design") {
 ?>
 <section class="proj" style="background-image: url(./img/bg\ foccu1.png); background-size: 100%;">
 <div class="container">
-
-    <section>
         <h1 class="text-center mt-auto"><?=$category?> (<?=$tag?>)</h1>
        
         <!-- Categories -->
@@ -49,7 +47,6 @@ if ($category=="Graphic Design") {
             <?php endif;?>
             <?php endforeach;?>
         </div>
-    </section>
 </div>
 </section>
 <?php include('pages/footer.php')?>

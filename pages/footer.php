@@ -1,12 +1,12 @@
 <!-- Footer -->
 <section class="foot" style="background-color: rgb(223, 223, 223);"
 <div class="container">
-    <div class="row mt-5">
+    <div class="row m-0">
         <div class="col-md-4">
             <p class="fs-4 fw-bolder mb-0">FOCCU.ID</p>
             <p class="small">Ways To Stay Focused.</p>
         </div>
-        <div class="col-md-8 mt-2 text-center">
+        <div class="col-md-8 text-center">
             <div class="svg-wrap d-flex justify-content-center"> <a href="https://www.instagram.com/foccu.id/"
                     target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="fill:black">
                         <path
@@ -29,7 +29,7 @@
                         </path>
                     </svg></a>
             </div>
-            <div class="d-block small text-center mt-3">© 2021 Foccu. All rights reserved.</div>
+            <div class="d-block small text-center mt-2">© 2021 Foccu. All rights reserved.</div>
         </div>
     </div>
 </div>

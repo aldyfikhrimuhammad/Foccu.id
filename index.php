@@ -80,7 +80,7 @@
         <div class="text-center mt-5 pt-5 mb-5">
             <p class="fs-2 fw-bold mb-4">Our Team</p>
         </div>
-        <div class="row mt-3 justify-content-center">
+        <div class="row mt-3 justify-content-center mx-0">
           <?php foreach ($team as $row) :?>
              <div class="profile justify-content-center">
                 <img src="./img/profil/<?=$row['Foto']?>" alt="<?=$row['Nama']?>"
