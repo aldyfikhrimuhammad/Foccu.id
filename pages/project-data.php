@@ -55,13 +55,85 @@ $graphic = array(
         "author" => "Lulu",
         "tag" => "Logo"
     ),
+     array(
+        "projectName" => "One Stop Carwash",
+        "thumbnail" => "onestop-kit.jpg",
+        "file" => array(
+           "onestop-kit/banner biasa.png",
+           "onestop-kit/banner pemberitahuan.jpg",
+           "onestop-kit/BROSUR.jpg",
+           "onestop-kit/roll banner.png",
+        ),
+        "desc" => "",
+        "author" => "Lulu",
+        "tag" => "Flyer"
+    ),
+     array(
+        "projectName" => "Dapur LA",
+        "thumbnail" => "dapur la_logo.jpg",
+        "file" => array(
+           "dapur-LA/dapur la_label_mieayam.png",
+           "dapur-LA/dapur la_label_new.png",
+           "dapur-LA/dapur la_label_yamin.png",
+           "dapur-LA/dapur la_logo.png",
+        ),
+        "desc" => "",
+        "author" => "Andreas",
+        "tag" => "Logo"
+    ),
+     array(
+        "projectName" => "Wedding Invitation",
+        "thumbnail" => "wedding-inv.jpg",
+        "file" => array(
+           "undangan-wedding/88202_mpah eman_belakang.png",
+           "undangan-wedding/88202_mpah eman_depan.png",
+           "undangan-wedding/88207 Intan dodoc dalam.png",
+           "undangan-wedding/88207 Intan dodoc depan.png",
+           "undangan-wedding/88209 Reni dalam.png",
+           "undangan-wedding/88209 Reni luar.png",
+        ),
+        "desc" => "",
+        "author" => "Andreas",
+        "tag" => "Flyer"
+    ),
+     array(
+        "projectName" => "X-Banner KKN",
+        "thumbnail" => "Xbanner logo1.jpg",
+        "file" => array(
+           "banner-andreas/Xbanner logo1.png",
+        ),
+        "desc" => "",
+        "author" => "Andreas",
+        "tag" => "Flyer"
+    ),
+     array(
+        "projectName" => "Dapur LA - Menu",
+        "thumbnail" => "bannerDapurLA17.jpg",
+        "file" => array(
+           "banner-andreas/bannerDapurLA17.png",
+           "banner-andreas/dapur la_menu.png",
+        ),
+        "desc" => "",
+        "author" => "Andreas",
+        "tag" => "Flyer"
+    ),
+     array(
+        "projectName" => "Ticket",
+        "thumbnail" => "tiket.jpg",
+        "file" => array(
+           "lain2-andreas/tiket.png",
+        ),
+        "desc" => "",
+        "author" => "Andreas",
+        "tag" => "Flyer"
+    ),
    
 );
 
 $web = array(
     array(
         "projectName" => "Digital Corespondence Management",
-        "thumbnail" => "digcom.png",
+        "thumbnail" => "digcom.jpg",
         "link" => "https://digcom.adp-digilab.com/",
         "file" => array(
             "digcom/digcom.PNG",
@@ -70,7 +142,63 @@ $web = array(
             "digcom/surat.PNG",
         ),
         "desc" => "lorem ipsum",
-        "author" => "Lulu Iwana",
+        "author" => "Lulu",
         "tag" => "Education"
-    )
+    ),
+    array(
+        "projectName" => "Shafira - Website",
+        "thumbnail" => "shafira.jpg",
+        "link" => "https://shafiratatagraha.com/",
+        "file" => array(
+            "shafiratatagraha/1.PNG",
+            "shafiratatagraha/2.PNG",
+            "shafiratatagraha/3.PNG",
+            "shafiratatagraha/4.PNG",
+        ),
+        "desc" => "",
+        "author" => "Lulu",
+        "tag" => "Bussiness"
+    ),
+    array(
+        "projectName" => "Indigeo",
+        "thumbnail" => "indigeo.jpg",
+        "link" => "http://indigeo.rf.gd/",
+        "file" => array(
+            "indigeo/1.png",
+            "indigeo/2.png",
+            "indigeo/3.png",
+            "indigeo/4.png",
+        ),
+        "desc" => "",
+        "author" => "Lulu",
+        "tag" => "Education"
+    ),
+    array(
+        "projectName" => "Arsip Kita",
+        "thumbnail" => "arsipkita.jpg",
+        "link" => "https://arsipkita.adp-digilab.com/",
+        "file" => array(
+            "arsipkita/1.png",
+            "arsipkita/2.png",
+            "arsipkita/3.png",
+        ),
+        "desc" => "",
+        "author" => "Lulu",
+        "tag" => "Education"
+    ),
+    array(
+        "projectName" => "Arsip Keluarga",
+        "thumbnail" => "arsipkk.jpg",
+        "link" => "http://prototype.rf.gd/",
+        "file" => array(
+            "arsipkk/1.png",
+            "arsipkk/2.png",
+            "arsipkk/3.png",
+            "arsipkk/4.png",
+        ),
+        "desc" => "",
+        "author" => "Lulu",
+        "tag" => "Bussiness"
+    ),
+ 
 );

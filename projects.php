@@ -26,9 +26,9 @@ if ($category=="Graphic Design") {
             <?php endforeach;?>
         </div>
         <!-- Projects -->
-        <div class="row mt-5">
+        <div class="row mt-3">
             <?php foreach($data as $row):?>
-            <div class="col-md-4">
+            <div class="col-md-4 mt-2">
                 <div class="card">
                     <a href="detail.php?c=<?=$category?>&q=<?=$row['projectName']?>" class="p-0">
                         <div class="card-body">
