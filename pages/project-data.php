@@ -21,7 +21,7 @@ $graphic = array(
             "bonvita/bonvita-brochure2.png",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Flyer"
     ),
      array(
@@ -39,7 +39,7 @@ $graphic = array(
            "wisata/09.png",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Social Media"
     ),
     array(
@@ -52,7 +52,7 @@ $graphic = array(
            "si-koh/hotcup3.png",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Logo"
     ),
      array(
@@ -65,7 +65,7 @@ $graphic = array(
            "onestop-kit/roll banner.png",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Flyer"
     ),
      array(
@@ -78,7 +78,7 @@ $graphic = array(
            "dapur-LA/dapur la_logo.png",
         ),
         "desc" => "",
-        "author" => "Andreas",
+        "author" => "Andreas Aprillian",
         "tag" => "Logo"
     ),
      array(
@@ -93,7 +93,7 @@ $graphic = array(
            "undangan-wedding/88209 Reni luar.png",
         ),
         "desc" => "",
-        "author" => "Andreas",
+        "author" => "Andreas Aprillian",
         "tag" => "Flyer"
     ),
      array(
@@ -103,7 +103,7 @@ $graphic = array(
            "banner-andreas/Xbanner logo1.png",
         ),
         "desc" => "",
-        "author" => "Andreas",
+        "author" => "Andreas Aprillian",
         "tag" => "Flyer"
     ),
      array(
@@ -114,7 +114,7 @@ $graphic = array(
            "banner-andreas/dapur la_menu.png",
         ),
         "desc" => "",
-        "author" => "Andreas",
+        "author" => "Andreas Aprillian",
         "tag" => "Flyer"
     ),
      array(
@@ -124,7 +124,7 @@ $graphic = array(
            "lain2-andreas/tiket.png",
         ),
         "desc" => "",
-        "author" => "Andreas",
+        "author" => "Andreas Aprillian",
         "tag" => "Flyer"
     ),
    
@@ -142,7 +142,7 @@ $web = array(
             "digcom/surat.PNG",
         ),
         "desc" => "lorem ipsum",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Education"
     ),
     array(
@@ -156,7 +156,7 @@ $web = array(
             "shafiratatagraha/4.PNG",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Bussiness"
     ),
     array(
@@ -170,7 +170,7 @@ $web = array(
             "indigeo/4.png",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Education"
     ),
     array(
@@ -183,7 +183,7 @@ $web = array(
             "arsipkita/3.png",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Education"
     ),
     array(
@@ -197,7 +197,7 @@ $web = array(
             "arsipkk/4.png",
         ),
         "desc" => "",
-        "author" => "Lulu",
+        "author" => "Luluk Iwanatul",
         "tag" => "Bussiness"
     ),
  
